@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.localEchoStyle": "bold",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#fff"
+    },
+}
